@@ -9,7 +9,7 @@ line> stagedir {
 
 paly{
         background-color: aliceblue;
-        
+        padding 1em;
     }
 
 
